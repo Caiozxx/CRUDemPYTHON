@@ -1,1 +1,1 @@
-![Legenda](https://cio.com.br/wp-content/uploads/2020/10/linguagem-programacao-python-1024x576.jpg)
+![Legenda](https://s3.amazonaws.com/ckl-website-static/wp-content/uploads/2021/04/benefits-of-Python-300x300.png)
